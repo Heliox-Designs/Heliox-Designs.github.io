@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>Pyroxus Designs</title>
-    <link rel="icon" type="image/ico" href="http://pyroxus.github.io/favicon.ico"/>
+    <link rel="icon" type="image/ico" href="http://heliox-designs.github.io/favicon.ico"/>
     <link type = "text/css" rel = "stylesheet" href = "pyroxus.github.io/style.css">
   </head>
   <body>
