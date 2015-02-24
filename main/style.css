@@ -1,4 +1,11 @@
 /* style.css */
 /* CSS is an acronym for 'Cascading StyleSheets'. It is a language made for one thing: Making HTML look good. If CSS didn't
 exist, I doubt HTML would. Anyway, I (Heliox) am your guide! I will explain all of the CSS in this project. (In case you're
-wondering, this text is something call a 'comment', and it goes in between the stars and slashes.)
+wondering, this text is something call a 'comment', and it goes in between the stars and slashes.) */
+.headerbar {
+  position: absolute;
+}
+h1 {
+  position: absolute;
+  font-family: verdana;
+}
