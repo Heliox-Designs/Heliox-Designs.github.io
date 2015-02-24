@@ -2,6 +2,9 @@
 /* CSS is an acronym for 'Cascading StyleSheets'. It is a language made for one thing: Making HTML look good. If CSS didn't
 exist, I doubt HTML would. Anyway, I (Heliox) am your guide! I will explain all of the CSS in this project. (In case you're
 wondering, this text is something call a 'comment', and it goes in between the stars and slashes.) */
+html {
+	background-color: #ccc;
+}
 .headerbar {
 	position: absolute;
 	width: 100%;
@@ -19,7 +22,4 @@ wondering, this text is something call a 'comment', and it goes in between the s
 	left: 110%;
   	float: right;
   	font-size: 55px;
-}
-html {
-	background-color: #ccc;
 }
