@@ -8,7 +8,7 @@ wondering, this text is something call a 'comment', and it goes in between the s
 	height: 10%;
 	top: 0%;
 	border-radius: 15%;
-	color: white;
+	background-color: white;
 }
 #headertxt {
 	position: absolute;
