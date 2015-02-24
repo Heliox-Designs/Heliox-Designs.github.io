@@ -4,6 +4,9 @@ exist, I doubt HTML would. Anyway, I (Heliox) am your guide! I will explain all 
 wondering, this text is something call a 'comment', and it goes in between the stars and slashes.) */
 .headerbar {
 	position: absolute;
+	width: 100%;
+	height: 10%;
+	top: 20%;
 }
 h1 {
 	position: absolute;
