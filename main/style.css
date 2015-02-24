@@ -3,15 +3,15 @@
 exist, I doubt HTML would. Anyway, I (Heliox) am your guide! I will explain all of the CSS in this project. (In case you're
 wondering, this text is something call a 'comment', and it goes in between the stars and slashes.) */
 .headerbar {
-  position: absolute;
+	position: absolute;
 }
 h1 {
-  position: absolute;
-  font-family: "Avenir", "verdana";
-  color: lime;
-  top: 0%;
-  border-radius: 20%;
-  left: 110%;
-  float: right;
-  font-size: 55px;
+	position: absolute;
+	font-family: "Avenir", "verdana";
+	color: lime;
+	top: 0%;
+	border-radius: 20%;
+	left: 110%;
+  	float: right;
+  	font-size: 55px;
 }
